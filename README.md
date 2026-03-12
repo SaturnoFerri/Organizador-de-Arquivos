@@ -20,3 +20,6 @@ Script em Python que organiza arquivos em uma pasta em categorias como:
 - Python
 - os
 - shutil
+
+
+Pretendo adicionar no futuro novas funções para esse script
