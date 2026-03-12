@@ -18,5 +18,5 @@ Script em Python que organiza arquivos em uma pasta em categorias como:
 
 ## Tecnologia Usadas:
 - Python
-- Os
-- Shutil
+- os
+- shutil
