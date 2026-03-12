@@ -9,7 +9,7 @@ Script em Python que organiza arquivos em uma pasta em categorias como:
 - Programação Web
 - Programação Script e Automação
 
-Como usar:
+##Como usar:
 1-Defina o caminho da pasta:
 camin = "C:/Users/Seu_Usuario/test"
 
