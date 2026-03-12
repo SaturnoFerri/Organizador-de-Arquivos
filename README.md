@@ -17,6 +17,6 @@ camin = "C:/Users/Seu_Usuario/test"
 python3 Organizador.py
 
 ## Tecnologia Usadas:
-Python
-Os
-Shutil
+- Python
+- Os
+- Shutil
